@@ -4,38 +4,32 @@ const project: IProject.Payload = {
   disable: false,
   list: [
     {
-      title: 'Linux Kernel Optimization Project',
-      startedAt: '2020-06',
-      where: 'Linux Foundation',
+      title: '음성파일 요약 API 연동 사이트 프로젝트',
+      startedAt: '2026-03',
+      where: 'Team PSLW',
       descriptions: [
         {
           content:
-            'Initiated and lead a collaborative project aimed at optimizing the Linux Kernel for various hardware architectures.',
+            'AutoGPT API, Gemini API를 사용해 회의 음성 파일을 요약하는 사이트를 만들고 있습니다..',
         },
         {
           content:
-            'Achieved significant improvements in system performance and resource management.',
-          weight: 'MEDIUM',
-          descriptions: [
-            { content: '30% improvement in system resource efficiency' },
-            { content: 'Job Scheduler Refactor and Optimization' },
-          ],
+            '다른 API를 사용하는 것이 아닌 각자가 가진 API를 사용할 수 있는 방법을 알았습니다.',
         },
       ],
     },
     {
-      title: 'Global Linux Bootcamp',
-      startedAt: '2017-05',
-      endedAt: '2019-12',
-      where: 'Open Source Community',
+      title: '욕설 필터링 AI 프로젝트',
+      startedAt: '2025-03',
+      endedAt: '2025-12',
+      where: 'Team PSLW',
       descriptions: [
         {
           content:
-            'Organized and conducted training bootcamps focusing on Linux system engineering skills.',
+            '욕설을 자동으로 감지해 필터링하는 AI를 개발하고 그 Ai가 적용된 테스트 사이트를 제작했습니다.',
         },
         {
-          content:
-            'Successfully trained over 5,000 participants in system administration and security. ',
+          content: 'AI를 사용한 첫 프로젝트를 성공적으로 마쳤습니다.',
         },
       ],
     },
