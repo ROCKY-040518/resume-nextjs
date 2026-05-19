@@ -11,26 +11,26 @@ const profile: IProfile.Payload = {
   // image: 'https://resume.yowu.dev/static/image/profile_2019.png',
   image,
   name: {
-    title: 'Tux Linux Penguin',
-    small: '(Tux)',
+    title: '손광호',
+    small: '(2004/05/18)',
   },
   contact: [
     {
-      title: 'tux@linux.org',
-      link: 'mailto:tux@linux.org',
+      title: 'rocky0518@daum.net',
+      link: 'mailto:rocky0518@daum.net',
       icon: faEnvelope,
     },
     {
-      title: 'Please contact me by email',
+      title: '010-2899-0518',
       icon: faPhone,
       badge: true,
     },
     {
-      link: 'https://github.com/uyu423/resume-nextjs',
+      link: 'https://github.com/ROCKY-040518/resume-nextjs',
       icon: faGithub,
     },
     {
-      link: 'https://www.facebook.com/groups/ubuntu.ko',
+      link: 'none',
       icon: faFacebook,
     },
   ],
