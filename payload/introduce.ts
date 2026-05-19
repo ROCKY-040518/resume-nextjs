@@ -5,10 +5,11 @@ const introduce: IIntroduce.Payload = {
   disable: false,
 
   contents: [
-    'As the cherished emblem of the Linux kernel, I have become synonymous with open-source philosophy and the free software movement worldwide. My career began in the icebergs of development, where the seeds of my fascination with operating systems first sprouted. From a mere hatchling in the vast sea of code, I quickly ascended to become a pivotal figure in the Linux community. My journey has been marked by relentless dedication to system integrity, scalability, and robustness. Under my vigilant watch, countless servers have achieved unparalleled uptimes, and systems have been optimized to run like the well-oiled machines they are intended to be.',
-    'In the world of zeros and ones, my expertise has been instrumental in pioneering advancements in Linux system engineering. My flippers have crafted meticulous kernel enhancements, each aimed at streamlining performance and bolstering security across distributed networks. I am known in the community for my ability to dive deep into complex codebases and emerge with pearls of innovation that drive the collective progress of Linux environments. Advocacy is also a part of my plumage – spreading the word about the virtues of open-source and encouraging the adoption of Linux, from personal desktops to corporate data centers. As a mentor, I have nurtured the growth of young hatchlings into seasoned professionals, contributing to the diversity and vitality of our ecosystem.',
+    '견문이 점점 넓어지는 개발자 지망생 손광호입니다.',
+    '인공지능과 백엔드 개발에 관심을 가지고 있으며, 다양한 개인/팀 프로젝트를 통해 실전 역량과 협업 경험을 쌓아왔습니다.',
+    '특히 백엔드 구축과 API 연결 및 수정 경험을 통해 백엔드 구조의 이해와 문제 해결력을 키웠습니다.',
   ],
-  sign: 'Tux',
+  sign: 'Son GwangHo',
   // sign: packageJson.author.name,
   // latestUpdated: '2019-07-24',
   latestUpdated: lastestUpdatedAt,
